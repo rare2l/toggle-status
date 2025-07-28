@@ -1,12 +1,14 @@
 This project demonstrates a simple webpage design using HTML, CSS, JavaScript, and PHP to handle user input and interact with a MySQL database. The webpage includes a form for submitting names and ages, stores this data in a database, and displays it in a table. A toggle button allows you to change the status of each record between 0 and 1.
 
 Features
+
 	•	Form Submission: A form where users can input their name and age and submit the data.
 	•	Database Integration: Submitted data is stored in a MySQL database.
 	•	Data Display: All records are displayed in a table below the form.
 	•	Status Toggle: A toggle button for each record that switches the status value between 0 and 1.
 
 Task Instructions
+
 	1.	Webpage Design:
 	•	Use HTML for the structure, CSS for styling, JavaScript for dynamic behavior, and PHP for server-side processing.
 	2.	Form Creation:
@@ -21,6 +23,7 @@ Task Instructions
 	•	After toggling, the updated status should be reflected on the webpage without needing to refresh the page.
 
 How to Use
+
 	1.	Clone the repository to your local machine.
 	2.	Set up a MySQL database with a table that can store the name, age, and status of each user.
 	3.	Update the database connection settings in the PHP script.
@@ -28,6 +31,7 @@ How to Use
 	5.	Access the webpage, input data in the form, and toggle the status of each record.
 
 Requirements
+
 	•	PHP: 7.0 or higher
 	•	MySQL: For database management
 	•	JavaScript: For toggling status without page reload
